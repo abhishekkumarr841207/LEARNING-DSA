@@ -14,6 +14,6 @@ int main()
   // realtional operators
     cout<<(num1==num2)<<endl; // false
     cout<<(num1!=num2)<<endl; //true
-    cout<<(num1>=num2)<<endl; // t
+    cout<<(num1>=num2)<<endl; // true
     return 0;
 }
