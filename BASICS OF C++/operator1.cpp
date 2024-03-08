@@ -4,6 +4,7 @@ int main()
 {
   int num1=8;
   int num2=4;
+  // airthmetic operators
   cout<<num1+num2<<endl; //12
   cout<<num1-num2<<endl; // 4
   cout<<num1*num2<<endl; //32
