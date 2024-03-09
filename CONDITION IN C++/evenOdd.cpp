@@ -11,5 +11,3 @@
      return 0;
 }
 
-// Take positive integer input and tell if it is odd
-
