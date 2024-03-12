@@ -7,4 +7,5 @@ int main(){
     for(int i=1;i<=n;i+=2){
         cout<<"the arithematic prograssion is :"<<i<<endl;
     }
+    return 0;
 }
